@@ -2,4 +2,4 @@ Name: (KIM YONGJUNE)
 
 Student ID: (20235039)
 
-Instructions: (Instructions to reproduce the result by using the code you provided) 
+Instructions: (After executing the first cell, upload the Auto.csv file and execute the cells in order to output the required results in the cells under each sub-question number.) 
